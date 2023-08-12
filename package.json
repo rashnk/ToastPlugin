@@ -17,5 +17,13 @@
   "main": "wwww/toast.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashnk/ToastPlugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rashnk/ToastPlugin/issues"
+  },
+  "homepage": "https://github.com/rashnk/ToastPlugin#readme"
 }
